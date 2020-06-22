@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Life post-covid "
-date:       2020-06-22 16:12:55 +0000
+date:       2020-06-22 12:12:56 -0400
 permalink:  life_post-covid
 ---
 
