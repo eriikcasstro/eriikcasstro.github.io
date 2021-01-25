@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Supervised learning "
-date:       2021-01-25 07:19:02 +0000
+date:       2021-01-25 02:19:03 -0500
 permalink:  supervised_learning
 ---
 
